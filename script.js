@@ -1,5 +1,5 @@
-var app6 = new Vue({
-  el: '#app-6',
+var app = new Vue({
+  el: '#app',
   data: {
     message: 'Hello Vue!'
   }
